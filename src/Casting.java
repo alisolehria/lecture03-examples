@@ -16,7 +16,8 @@ public class Casting {
 
 		System.out.println("vip1 = " + vip1);
 		System.out.println("vip2 = " + vip2);
-
+		
+		
 		scan.close();
 	}
 
